@@ -2,7 +2,7 @@
   "pokemon": [{
     "id": 1,
     "num": "001",
-    "name": "Bulbasaur",
+    "name": "Josusaur",
     "img": "https://www.serebii.net/pokemongo/pokemon/001.png",
     "type": [
       "Grass",
